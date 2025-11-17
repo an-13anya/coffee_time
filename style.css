@@ -1,0 +1,17 @@
+body{
+     background-color:#E3CADE;
+}
+.sticker
+{
+     height:500px;
+}
+#no-but:hover{
+   background-color: aqua;
+}
+#heading{
+     font-family:'Times New Roman', Times, serif
+}
+#no-but{
+     position: relative;
+  
+}
